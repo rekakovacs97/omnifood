@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  background-color: #fdf2e9;
+  justify-content: space-between;
+}
+.header .logo {
+  height: 2.2rem;
+}
+.header .main-nav .main-nav-list {
+  display: flex;
+  list-style-type: none;
+  gap: 4.5rem;
+}
+.header .main-nav .main-nav-list .main-nav-link {
+  color: #333;
+  font-weight: 500;
+  font-size: 1.8rem;
+  text-decoration: none;
+}/*# sourceMappingURL=nav.css.map */
