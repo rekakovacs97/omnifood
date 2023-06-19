@@ -1,14 +1,8 @@
-var question = prompt("How are you?");
-
-console.log('teest');
+//var question = prompt("How are you?");
 
 if (question == 'good') {
-  console.log('test')
-  $('.hero-description').css({'display':'none'})
-  console.log('heheh');
+  console.log('hehehe');
 } else {
-  alert("Hello! I am an alert box!!");
+  console.log("I'm sorry!");
 }
-
-
 
