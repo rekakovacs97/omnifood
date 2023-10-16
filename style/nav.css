@@ -17,6 +17,9 @@ body {
 .header .logo {
   height: 2.2rem;
 }
+.header .test {
+  display: none;
+}
 .header .main-nav .main-nav-list {
   display: flex;
   list-style-type: none;
